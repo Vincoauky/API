@@ -5,5 +5,4 @@ Disusun Oleh : Kelompok 2
 - 22091397079 Sintiya (https://github.com/sintiyaaa73/PemrogramanAPI)
 - 22091397102 Amallia Berliany Putri (https://github.com/AmalliaBerlianyPutri/Pemrograman-API)
 	
-Berikut merupakan source code dan tampilan hasil dokumentasi OpenAPI
-![Documentation](https://github.com/Vincoauky/API)
+
